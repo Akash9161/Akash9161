@@ -23,11 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash9161&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash9161&theme=radical" />
 </p>
 
 ---
@@ -46,3 +43,24 @@
 
 ### 💡 Quote
 > "Code. Learn. Build. Repeat." 🔥
+
+
+## Github Trophies (Advanced Look)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash9161&theme=radical&row=1&column=6" />
+</p>
+
+## 🚀Cool Badges 
+![Profile Views](https://komarev.com/ghpvc/?username=Akash9161&color=blue)
+![Followers](https://img.shields.io/github/followers/Akash9161?style=social)
+
+## ADD AI Touch 
+- 🔹 AI Chatbot with Custom Training
+- 🔹 Machine Learning Projects
+- 🔹 Backend Development (Node.js + MongoDB)
+
+ ## Snake Contribution Graph
+![snake gif](https://github.com/your-Akash9161/your-Akash9161/blob/output/github-contribution-grid-snake.svg) 
+
+
+
