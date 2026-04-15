@@ -1,9 +1,8 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
-<h3 align="center">🚀 CSE Student | AI Enthusiast | Python Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Enthusiast;Python+Developer;CSE+Student;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
