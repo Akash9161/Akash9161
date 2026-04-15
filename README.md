@@ -60,7 +60,6 @@
 - 🔹 Backend Development (Node.js + MongoDB)
 
  ## Snake Contribution Graph
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Akash9161/Akash9161/blob/output/github-contribution-grid-snake.svg)
 
 
